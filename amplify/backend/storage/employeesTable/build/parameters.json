@@ -1,0 +1,5 @@
+{
+  "tableName": "employeesTable",
+  "partitionKeyName": "Id",
+  "partitionKeyType": "S"
+}
